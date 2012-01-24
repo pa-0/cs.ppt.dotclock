@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Dot clock">
+</Property><Property Name="Solution File" Value="G:\C# Stuff\Dot clock\Dot clock.sln">
+</Property><Property Name="User Options File" Value="G:\C# Stuff\Dot clock\Dot clock.suo">
+</Property><Property Name="Date" Value="Saturday, July 25, 2009">
+</Property><Property Name="Time" Value="1:10 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Dot clock.sln" Description="File successfully backed up as G:\C# Stuff\Dot clock\Backup\Dot clock.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Dot clock.suo" Description="File successfully backed up as G:\C# Stuff\Dot clock\Backup\Dot clock.suo">
+</Event><Event ErrorLevel="0" Project="Dot clock" Source="Dot clock\Dot clock.csproj" Description="Project file successfully backed up as G:\C# Stuff\Dot clock\Backup\Dot clock\Dot clock.csproj">
+</Event><Event ErrorLevel="0" Project="Dot clock" Source="Dot clock\Form1.cs" Description="File successfully backed up as G:\C# Stuff\Dot clock\Backup\Dot clock\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Dot clock" Source="Dot clock\Form1.Designer.cs" Description="File successfully backed up as G:\C# Stuff\Dot clock\Backup\Dot clock\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Dot clock" Source="Dot clock\Program.cs" Description="File successfully backed up as G:\C# Stuff\Dot clock\Backup\Dot clock\Program.cs">
+</Event><Event ErrorLevel="0" Project="Dot clock" Source="Dot clock\Properties\AssemblyInfo.cs" Description="File successfully backed up as G:\C# Stuff\Dot clock\Backup\Dot clock\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Dot clock" Source="Dot clock\Properties\Resources.Designer.cs" Description="File successfully backed up as G:\C# Stuff\Dot clock\Backup\Dot clock\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Dot clock" Source="Dot clock\Properties\Settings.Designer.cs" Description="File successfully backed up as G:\C# Stuff\Dot clock\Backup\Dot clock\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Dot clock" Source="Dot clock\Properties\Settings.settings" Description="File successfully backed up as G:\C# Stuff\Dot clock\Backup\Dot clock\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Dot clock" Source="Dot clock\Sun.ico" Description="File successfully backed up as G:\C# Stuff\Dot clock\Backup\Dot clock\Sun.ico">
+</Event><Event ErrorLevel="0" Project="Dot clock" Source="Dot clock\Form1.resx" Description="File successfully backed up as G:\C# Stuff\Dot clock\Backup\Dot clock\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Dot clock" Source="Dot clock\Properties\Resources.resx" Description="File successfully backed up as G:\C# Stuff\Dot clock\Backup\Dot clock\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Dot clock" Source="Dot clock\Dot clock.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Dot clock" Source="Dot clock\Dot clock.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Dot clock.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Dot clock.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Dot clock" Source="Dot clock\Dot clock.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

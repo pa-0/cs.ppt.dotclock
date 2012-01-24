@@ -1,0 +1,16 @@
+obj\Debug\Dot clock.exe
+obj\Debug\Dot clock.pdb
+bin\Release\Dot clock.exe
+bin\Release\Dot clock.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Dot_clock.Form1.resources
+obj\Release\Dot_clock.Properties.Resources.resources
+obj\Release\Dot clock.csproj.GenerateResource.Cache
+obj\Release\Dot clock.exe
+obj\Release\Dot clock.pdb
+bin\Debug\Dot clock.exe
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Dot_clock.Form1.resources
+obj\Debug\Dot_clock.Properties.Resources.resources
+obj\Debug\Dot clock.csproj.GenerateResource.Cache
+bin\Debug\Dot clock.pdb

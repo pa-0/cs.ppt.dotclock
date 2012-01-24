@@ -1,0 +1,55 @@
+G:\C# Stuff\Dot clock\Dot clock\obj\Debug\Dot clock.exe
+G:\C# Stuff\Dot clock\Dot clock\obj\Debug\Dot clock.pdb
+G:\C# Stuff\Dot clock\Dot clock\bin\Debug\Dot clock.exe
+G:\C# Stuff\Dot clock\Dot clock\bin\Debug\Dot clock.pdb
+G:\C# Stuff\Dot clock\Dot clock\obj\Debug\ResolveAssemblyReference.cache
+G:\C# Stuff\Dot clock\Dot clock\obj\Debug\Dot_clock.Form1.resources
+G:\C# Stuff\Dot clock\Dot clock\obj\Debug\Dot_clock.Properties.Resources.resources
+G:\C# Stuff\Dot clock\Dot clock\obj\Debug\Dot clock.csproj.GenerateResource.Cache
+\\DLINK-NAS\Volume_1\Flash drive backups\4G Lexar\C# Stuff\Dot clock\Dot clock\obj\Debug\Dot clock.exe
+\\DLINK-NAS\Volume_1\Flash drive backups\4G Lexar\C# Stuff\Dot clock\Dot clock\obj\Debug\Dot clock.pdb
+\\DLINK-NAS\Volume_1\Flash drive backups\4G Lexar\C# Stuff\Dot clock\Dot clock\bin\Debug\Dot clock.exe
+\\DLINK-NAS\Volume_1\Flash drive backups\4G Lexar\C# Stuff\Dot clock\Dot clock\bin\Debug\Dot clock.pdb
+\\DLINK-NAS\Volume_1\Flash drive backups\4G Lexar\C# Stuff\Dot clock\Dot clock\obj\Debug\ResolveAssemblyReference.cache
+\\DLINK-NAS\Volume_1\Flash drive backups\4G Lexar\C# Stuff\Dot clock\Dot clock\obj\Debug\Dot_clock.Form1.resources
+\\DLINK-NAS\Volume_1\Flash drive backups\4G Lexar\C# Stuff\Dot clock\Dot clock\obj\Debug\Dot_clock.Properties.Resources.resources
+\\DLINK-NAS\Volume_1\Flash drive backups\4G Lexar\C# Stuff\Dot clock\Dot clock\obj\Debug\GenerateResource-ResGen.read.1.tlog
+\\DLINK-NAS\Volume_1\Flash drive backups\4G Lexar\C# Stuff\Dot clock\Dot clock\obj\Debug\GenerateResource-ResGen.write.1.tlog
+\\DLINK-NAS\Volume_1\Flash drive backups\4G Lexar\C# Stuff\Dot clock\Dot clock\bin\Debug\Dot clock.exe.manifest
+\\DLINK-NAS\Volume_1\Flash drive backups\4G Lexar\C# Stuff\Dot clock\Dot clock\bin\Debug\Dot clock.application
+\\DLINK-NAS\Volume_1\Flash drive backups\4G Lexar\C# Stuff\Dot clock\Dot clock\obj\Debug\Dot clock.exe.manifest
+\\DLINK-NAS\Volume_1\Flash drive backups\4G Lexar\C# Stuff\Dot clock\Dot clock\obj\Debug\Dot clock.application
+\\DLINK-NAS\Volume_1\Share\Dot clock\Dot clock\obj\Debug\Dot clock.exe
+\\DLINK-NAS\Volume_1\Share\Dot clock\Dot clock\obj\Debug\Dot clock.pdb
+\\DLINK-NAS\Volume_1\Share\Dot clock\Dot clock\bin\Debug\Dot clock.exe.manifest
+\\DLINK-NAS\Volume_1\Share\Dot clock\Dot clock\bin\Debug\Dot clock.application
+\\DLINK-NAS\Volume_1\Share\Dot clock\Dot clock\bin\Debug\Dot clock.exe
+\\DLINK-NAS\Volume_1\Share\Dot clock\Dot clock\bin\Debug\Dot clock.pdb
+\\DLINK-NAS\Volume_1\Share\Dot clock\Dot clock\obj\Debug\ResolveAssemblyReference.cache
+\\DLINK-NAS\Volume_1\Share\Dot clock\Dot clock\obj\Debug\Dot_clock.Form1.resources
+\\DLINK-NAS\Volume_1\Share\Dot clock\Dot clock\obj\Debug\Dot_clock.Properties.Resources.resources
+\\DLINK-NAS\Volume_1\Share\Dot clock\Dot clock\obj\Debug\GenerateResource-ResGen.read.1.tlog
+\\DLINK-NAS\Volume_1\Share\Dot clock\Dot clock\obj\Debug\GenerateResource-ResGen.write.1.tlog
+\\DLINK-NAS\Volume_1\Share\Dot clock\Dot clock\obj\Debug\Dot clock.exe.manifest
+\\DLINK-NAS\Volume_1\Share\Dot clock\Dot clock\obj\Debug\Dot clock.application
+\\DLINK-NAS\Volume_1\Share\Dot clock\Dot clock\obj\Debug\ResGen.read.1.tlog
+\\DLINK-NAS\Volume_1\Share\Dot clock\Dot clock\obj\Debug\ResGen.write.1.tlog
+Z:\Share\Dot clock\Dot clock\obj\Debug\Dot clock.exe
+Z:\Share\Dot clock\Dot clock\obj\Debug\Dot clock.pdb
+Z:\Share\Dot clock\Dot clock\bin\Debug\Dot clock.exe.manifest
+Z:\Share\Dot clock\Dot clock\bin\Debug\Dot clock.application
+Z:\Share\Dot clock\Dot clock\bin\Debug\Dot clock.exe
+Z:\Share\Dot clock\Dot clock\bin\Debug\Dot clock.pdb
+Z:\Share\Dot clock\Dot clock\obj\Debug\ResolveAssemblyReference.cache
+Z:\Share\Dot clock\Dot clock\obj\Debug\Dot_clock.Form1.resources
+Z:\Share\Dot clock\Dot clock\obj\Debug\Dot_clock.Properties.Resources.resources
+Z:\Share\Dot clock\Dot clock\obj\Debug\GenerateResource-ResGen.read.1.tlog
+Z:\Share\Dot clock\Dot clock\obj\Debug\ResGen.read.1.tlog
+Z:\Share\Dot clock\Dot clock\obj\Debug\GenerateResource-ResGen.write.1.tlog
+Z:\Share\Dot clock\Dot clock\obj\Debug\ResGen.write.1.tlog
+Z:\Share\Dot clock\Dot clock\obj\Debug\Dot clock.exe.manifest
+Z:\Share\Dot clock\Dot clock\obj\Debug\Dot clock.application
+G:\Dot clock\Dot clock\obj\Debug\Dot clock.exe
+G:\Dot clock\Dot clock\obj\Debug\Dot clock.pdb
+F:\Programming\Dot clock\Dot clock\obj\Debug\Dot clock.exe
+F:\Programming\Dot clock\Dot clock\obj\Debug\Dot clock.pdb
